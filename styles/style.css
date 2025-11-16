@@ -1,0 +1,212 @@
+body{
+	 margin-top: 54px;
+	 margin-left: 52px;
+}
+header{
+    margin-bottom: 44px;
+
+}
+a{
+   font-weight: 700;
+   font-size: 26px;
+   color: #8D81FF;
+   text-decoration: none;
+}
+.active{
+	color: #4E6FAE;
+}
+li{
+	display: inline-block;
+	margin-left: 60px;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+img{
+	vertical-align: middle;
+}
+.momo-signature-regular {
+  font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.banner{
+	vertical-align: top;  
+}
+div{
+	margin-bottom: 167px;
+	
+}
+h3{
+    font-weight: 400;
+    font-size: 24px;
+    width: 70px;
+    height: 34px;
+    color: #8D81FF;
+    margin-bottom: 8px;
+
+}
+h4{
+	font-weight: 700;
+	font-size: 20px;
+	width: 578px;
+	height: 34px;
+	color: #4E6FAE;
+	margin-bottom: 13px;
+}
+.day{
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5 ;
+	color: #84FF81;
+	font-weight: 400px;
+	font-size: 24px;
+	padding-top: 8px;
+	padding-left: 11px;
+	margin-bottom: 18px;
+}
+img{
+		vertical-align: middle;
+		display: inline-block;
+
+	}
+
+p{
+	font-weight: 400;
+	font-size: 16px;
+	width: 778px;
+	height: 281px;
+	color: #4E6FAE;
+   display: inline-block;
+   vertical-align: top;
+   margin-left: 66px;
+}
+
+footer{
+	margin-top: 100px;
+}
+
+.line{
+	height: 48px;
+	width: 0px;
+   border: 2px solid #5012D5;
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 41px;
+}
+
+h1{ font-weight: 400px;
+	font-size: 16px;
+	width: 778px;
+	height: 281px;
+	color: #4E6FAE;
+	margin-top: 32px;
+
+}
+h2{
+	color: #4E6FAE;
+	font-weight: 300;
+	font-size: 26px;
+	margin-bottom: 26px;
+}
+
+h1{
+	color: #4E6FAE;
+	font-size: 36px;
+	font-weight: 700;
+	width: 474px;
+	height: 34px;
+	display: inline-block;
+	
+}
+
+
+h2 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-weight: 300;
+	margin-bottom: 26px;
+	margin-top: 120px;
+}
+
+span {
+	font-weight: 700;
+
+
+}
+
+.section2{
+	margin-top: 108px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.card {
+	width: 500px;
+	background-color: #E7E7E7;
+	height: 192px;
+	padding: 21px 23px;
+	display: inline-block;
+}
+
+/*.card:first-child {
+	margin-right: 50px;
+}*/
+
+.card-margin {
+	margin-right: 50px;
+}
+
+.card h3 {
+	font-weight: 400;
+	color: #3F4145;
+	font-size: 20px;
+	margin-bottom: 30px;
+	margin-right: 23px;
+	width: 300px;
+}
+
+.card-content p {
+	font-weight: 400;
+	font-size: 16px;
+	color: #7E8898;
+	width: 335px;
+	height: 95px;
+	display: inline-block;
+	margin-left: 150px;
+	margin-top: -100px;
+}
+
+
+.card-content img {
+	width: 77px;
+	height: 77px;
+	display: inline-block;
+	margin-right: 20px;
+
+}
+h5{
+	font-size: 20px;
+	font-weight: 400;
+
+}
+.box{
+	background-color: #E7E7E7;
+	width: 1850px;
+	height: 735px;
+	border: 1px solid #E7E7E7;	
+}
+
+.box div {
+	padding-top: 150px;
+	padding-left: 50px;
+	
+
+}
+
+.box img {
+	margin-left: 800px;
+	margin-top: -450px;
+}
+
