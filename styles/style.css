@@ -93,6 +93,7 @@ img{
 	font-family: "BPG Square", sans-serif;
     letter-spacing: 1px;
     line-height: 100%;
+    margin-top: 30px;
 
 }
 
@@ -178,7 +179,7 @@ span {
 	margin-bottom: 30px;
 	margin-right: 23px;
 	width: 300px;
-	 font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -206,7 +207,17 @@ span {
 h5{
 	font-size: 20px;
 	font-weight: 400;
-
+	color: #7E8898;
+	display: inline-block;	
+	vertical-align: middle;
+}
+h6{
+	font-size: 20px;
+	font-weight: 400;
+	width: 307px;
+	height: 24px;
+	display: inline-block;	
+	vertical-align: middle;
 }
 .box{
 	background-color: #E7E7E7;
